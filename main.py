@@ -1,6 +1,8 @@
 """Entry for make.fun: The One-Liner Groan-Off.
 
 Writes one original dad joke to entry.txt.
+
+Best served at the dinner table, groan guaranteed.
 """
 import os
 
